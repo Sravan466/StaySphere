@@ -27,7 +27,5 @@ From listing creation to user authentication, StaySphere replicates the core fun
 - ✅ **Server-side validation** with Joi and error handling middleware  
 - 📱 **Mobile-responsive design** with EJS and Bootstrap
 
----
 
-## 📦 Folder Structure
 
