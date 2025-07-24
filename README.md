@@ -27,5 +27,33 @@ From listing creation to user authentication, StaySphere replicates the core fun
 - ✅ **Server-side validation** with Joi and error handling middleware  
 - 📱 **Mobile-responsive design** with EJS and Bootstrap
 
+---
 
+## 📸 Screenshots
 
+### 🔐 Login Page
+![Login Page](screenshots/loginpage.png)
+
+### 🏡 Listing Show Page
+![Listing Show Page](screenshots/showpage.png)
+
+### 🔎 Detailted Page
+![Detailted page](screenshots/detailedpage.png)
+
+### ✍️ Leave a Review
+![Leave a Review](screenshots/review.png)
+
+### 🌍 Location Map View
+![Location Map](screenshots/location.png)
+
+### ➕ Create a New Listing
+![Create Listing](screenshots/newlisting.png)
+
+---
+
+## 🚀 Getting Started
+
+1️⃣ Clone the repository:
+```bash
+git clone https://github.com/yourusername/staysphere.git
+cd staysphere
