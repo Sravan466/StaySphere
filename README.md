@@ -32,22 +32,22 @@ From listing creation to user authentication, StaySphere replicates the core fun
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](screenshots/loginpage.png)
+![Login Page](screenshorts/loginpage.png)
 
 ### 🏡 Listing Show Page
-![Listing Show Page](screenshots/showpage.png)
+![Listing Show Page](screenshorts/showpage.png)
 
 ### 🔎 Detailted Page
-![Detailted page](screenshots/detailedpage.png)
+![Detailted page](screenshorts/detailtedpage.png)
 
 ### ✍️ Leave a Review
-![Leave a Review](screenshots/review.png)
+![Leave a Review](screenshorts/review.png)
 
 ### 🌍 Location Map View
-![Location Map](screenshots/location.png)
+![Location Map](screenshorts/location.png)
 
 ### ➕ Create a New Listing
-![Create Listing](screenshots/newlisting.png)
+![Create Listing](screenshorts/newlisting.png)
 
 ---
 
