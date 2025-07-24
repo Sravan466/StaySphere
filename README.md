@@ -57,10 +57,12 @@ From listing creation to user authentication, StaySphere replicates the core fun
 ```bash
 git clone https://github.com/yourusername/staysphere.git
 cd staysphere
+```
 
 2️⃣ Install dependencies
 ```bash
 npm install
+```
 
 3️⃣ Create a .env file with your environment variables
 ```bash
@@ -69,10 +71,22 @@ CLOUDINARY_CLOUD_NAME=
 CLOUDINARY_KEY=
 CLOUDINARY_SECRET=
 SECRET=
+```
 
 4️⃣ Run the app locally
 ```bash
 npm start
+```
+
+---
+
+##🤝 Contributing
+- Contributions are welcome! Please fork the repository and open a pull request with clear, descriptive commits.
+
+---
+
+##📄 License
+T-his project is licensed under the MIT License.
 
 
 
