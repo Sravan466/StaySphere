@@ -80,13 +80,13 @@ npm start
 
 ---
 
-##🤝 Contributing
+## 🤝 Contributing
 - Contributions are welcome! Please fork the repository and open a pull request with clear, descriptive commits.
 
 ---
 
-##📄 License
-T-his project is licensed under the MIT License.
+## 📄 License
+- This project is licensed under the MIT License.
 
 
 
